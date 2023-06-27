@@ -4,4 +4,4 @@
 
 **Hi there** 👋
 
-I am a junior cloud developer in azure looking to learn and improve my knowledge. ^_^
+Welcome to my Github ^_^ . As I grow, so will my GitHub with all my achievements and projects that I worked on.
