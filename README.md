@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Cristian+Miron!;Junior+Developer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Problem+Solver;Building+Ideas+into+Code+💡" alt="Typing SVG" />
+  <img src="https://typing-svg.vercel.app/?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Cristian+Miron!;Junior+Developer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Problem+Solver;Building+Ideas+into+Code+💡" alt="Typing SVG" />
 </p>
 
 ## 🧭 About Me
