@@ -54,4 +54,4 @@
 ## ✨ "Continuous learning is the path to happiness."
 
 ## My contribution snake
-![Contribution snake](https://raw.githubusercontent.com/CristianMiron0/CristianMiron0/output/github-contribution-grid-snake.svg)
+![Contribution snake](https://raw.githubusercontent.com/CristianMiron0/CristianMiron0/main/assets/github-contribution-grid-snake.svg)
