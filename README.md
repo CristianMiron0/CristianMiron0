@@ -1,4 +1,6 @@
-<!-- Typing animation header --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Cristian+Miron!;Junior+Developer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Problem+Solver;Building+Ideas+into+Code+💡" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Cristian+Miron!;Junior+Developer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Problem+Solver;Building+Ideas+into+Code+💡" alt="Typing SVG" />
+</p>
 
 🧭 About Me
 
@@ -23,4 +25,5 @@ I believe technology has the power to make life easier and more connected — an
 
 ✨ “Continuous learning is the path to happiness.”
 
-![Contribution snake](https://raw.githubusercontent.com/CristianMiron0/CristianMiron0/output/github-contribution-grid-snake-dark.svg)
+## My contribution snake
+![Contribution snake](https://raw.githubusercontent.com/CristianMiron0/CristianMiron0/output/github-contribution-grid-snake.svg)
